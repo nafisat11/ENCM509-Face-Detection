@@ -1,1 +1,1 @@
-# ENCM509-Face-Detection
+# Face Detection in Python using OpenCV
